@@ -64,19 +64,19 @@ export function Contact() {
                 <h4 className="text-lg font-semibold mb-4 text-black">Follow me</h4>
                 <div className="flex space-x-4">
                   <Link
-                    href="https://github.com"
+                    href="https://github.com/Whisdom-dev"
                     className="w-12 h-12 border border-gray-300 rounded-full flex items-center justify-center hover:bg-black hover:text-white hover:border-black transition-all duration-300"
                   >
                     <Github className="h-5 w-5" />
                   </Link>
                   <Link
-                    href="https://linkedin.com"
+                    href="https://www.linkedin.com/in/whisdom-ukaegbu-a02b79280"
                     className="w-12 h-12 border border-gray-300 rounded-full flex items-center justify-center hover:bg-black hover:text-white hover:border-black transition-all duration-300"
                   >
                     <Linkedin className="h-5 w-5" />
                   </Link>
                   <Link
-                    href="mailto:alex@example.com"
+                    href="mailto:whisdomdaniel@gmail.com"
                     className="w-12 h-12 border border-gray-300 rounded-full flex items-center justify-center hover:bg-black hover:text-white hover:border-black transition-all duration-300"
                   >
                     <Mail className="h-5 w-5" />

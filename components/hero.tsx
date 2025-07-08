@@ -64,21 +64,21 @@ export function Hero() {
 
           <div className="flex justify-center space-x-8 mb-16">
             <Link
-              href="https://github.com"
+              href="https://github.com/Whisdom-dev"
               className="p-4 border border-gray-300 rounded-full hover:bg-black hover:text-white hover:border-black transition-all duration-300 group"
             >
               <Github className="h-6 w-6" />
               <span className="sr-only">GitHub</span>
             </Link>
             <Link
-              href="https://linkedin.com"
+              href="https://www.linkedin.com/in/whisdom-ukaegbu-a02b79280"
               className="p-4 border border-gray-300 rounded-full hover:bg-black hover:text-white hover:border-black transition-all duration-300 group"
             >
               <Linkedin className="h-6 w-6" />
               <span className="sr-only">LinkedIn</span>
             </Link>
             <Link
-              href="mailto:alex@example.com"
+              href="mailto:whisdomdaniel@gmail.com"
               className="p-4 border border-gray-300 rounded-full hover:bg-black hover:text-white hover:border-black transition-all duration-300 group"
             >
               <Mail className="h-6 w-6" />
