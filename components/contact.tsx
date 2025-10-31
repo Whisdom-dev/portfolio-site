@@ -97,11 +97,11 @@ export function Contact() {
                   <div className="grid grid-cols-2 gap-4">
                     <div>
                       <label className="block text-sm font-medium text-gray-700 mb-2">First Name</label>
-                      <Input placeholder="John" className="border-gray-300 focus:border-black focus:ring-black" />
+                      <Input placeholder="Eagle" className="border-gray-300 focus:border-black focus:ring-black" />
                     </div>
                     <div>
                       <label className="block text-sm font-medium text-gray-700 mb-2">Last Name</label>
-                      <Input placeholder="Doe" className="border-gray-300 focus:border-black focus:ring-black" />
+                      <Input placeholder="Adura" className="border-gray-300 focus:border-black focus:ring-black" />
                     </div>
                   </div>
 
@@ -109,7 +109,7 @@ export function Contact() {
                     <label className="block text-sm font-medium text-gray-700 mb-2">Email</label>
                     <Input
                       type="email"
-                      placeholder="john@example.com"
+                      placeholder="eagle@example.com"
                       className="border-gray-300 focus:border-black focus:ring-black"
                     />
                   </div>

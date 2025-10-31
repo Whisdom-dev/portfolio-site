@@ -29,7 +29,7 @@ export function About() {
                     <p className="text-gray-600">Projects Completed</p>
                   </div>
                   <div>
-                    <h4 className="text-2xl font-bold text-black mb-2">1+</h4>
+                    <h4 className="text-2xl font-bold text-black mb-2">2+</h4>
                     <p className="text-gray-600">Years Experience</p>
                   </div>
                 </div>

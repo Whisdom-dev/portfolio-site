@@ -5,7 +5,7 @@ export function Skills() {
   const skillCategories = [
     {
       title: "Frontend",
-      skills: ["React", "Next.js", "TypeScript", "Tailwind CSS", "Vue.js", "HTML5", "CSS3", "JavaScript"],
+      skills: ["React", "Next.js","React Native", "TypeScript", "Tailwind CSS", "Vue.js", "HTML5", "CSS3", "JavaScript"],
     },
     {
       title: "Backend",
