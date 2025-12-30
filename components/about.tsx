@@ -13,8 +13,8 @@ export function About() {
           <div className="grid lg:grid-cols-2 gap-16 items-center">
             <div className="space-y-6">
               <p className="text-lg text-gray-600 leading-relaxed">
-                I'm a passionate full-stack developer with over 1 year of experience creating digital solutions that
-                make a difference. I specialize in modern web technologies and love turning complex problems into
+                I'm a passionate full-stack developer with over 2 years of experience creating digital solutions that
+                makes a difference. I specialize in modern web technologies, mobile application development and love turning complex problems into
                 simple, beautiful designs.
               </p>
               <p className="text-lg text-gray-600 leading-relaxed">
